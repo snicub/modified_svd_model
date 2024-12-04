@@ -1,0 +1,13 @@
+1. Open your terminal.
+
+2. Create a virtual environment:
+   python3 -m venv custom_env
+
+3. Activate the virtual environment:
+   source custom_env/bin/activate
+
+4. Install all project dependencies from the requirements.txt file:
+   pip install -r requirements.txt
+
+5. Run the project script:
+   python3 final_project.py
